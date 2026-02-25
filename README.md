@@ -32,7 +32,7 @@ A confiabilidade dos insights veio do tratamento rigoroso:
 ### 1. Panorama Geral (O Tamanho do Problema)
 Identificamos que **26,6%** da base cancelou o serviço (1.869 clientes). 
 
-> **[img/grafico_evasao.png]**
+> **img/grafico_evasao.png**
 
 ### 2. O "Vale da Morte" (Churn Precoce)
 A análise de permanência revelou um pico alarmante entre o **1º e o 6º mês**. 
