@@ -32,7 +32,8 @@ A confiabilidade dos insights veio do tratamento rigoroso:
 ### 1. Panorama Geral (O Tamanho do Problema)
 Identificamos que **26,6%** da base cancelou o serviço (1.869 clientes). 
 
-> **img/grafico_evasao.png**
+> <img width="806" height="602" alt="grafico_evasão" src="https://github.com/user-attachments/assets/3a687388-e401-4b01-a054-a2dd5280707a" />
+
 
 ### 2. O "Vale da Morte" (Churn Precoce)
 A análise de permanência revelou um pico alarmante entre o **1º e o 6º mês**. 
@@ -59,6 +60,5 @@ Com base nos dados, propomos:
 - 💾 `TelecomX_Data.json`: Fonte de dados.
 
 ---
-
 ## 👤 Autor
-**Seu Nome** [LinkedIn](SEU_LINK_AQUI) | [Seu Email]
+**Johnny Lima** [LinkedIn](www.linkedin.com/in/johnny-lima-data-analyticsj) | 
